@@ -1,2 +1,11 @@
+* text=auto
+
 *.lua text eol=lf
 *.xml text eol=lf
+*.md text eol=lf
+
+*.tex binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.psd binary
